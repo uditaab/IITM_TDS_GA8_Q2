@@ -1,0 +1,28 @@
+/* Custom Marp Theme: 'product-docs' */
+
+@charset "UTF-8";
+
+:root {
+--main-color: #005bbb;
+--accent-color: #ffa200;
+--text-color: #222;
+--footer-color: #666;
+}
+
+section {
+font-family: "Segoe UI", sans-serif;
+color: var(--text-color);
+padding: 40px;
+}
+
+h1, h2, h3 {
+color: var(--main-color);
+}
+
+footer {
+font-size: 0.7rem;
+color: var(--footer-color);
+position: absolute;
+bottom: 20px;
+right: 40px;
+}
