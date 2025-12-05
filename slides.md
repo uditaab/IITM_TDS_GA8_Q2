@@ -16,7 +16,7 @@ class: lead
 ---
 
 # Product Documentation Overview  
-Your Technical Writer: **24ds3000072@ds.study.iitm.ac.in**
+Your Technical Writer: **<a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>**
 
 ---
 
@@ -69,6 +69,7 @@ Using custom class:
 
 # Thank You  
 For queries: **24ds3000072@ds.study.iitm.ac.in**
+
 
 
 
