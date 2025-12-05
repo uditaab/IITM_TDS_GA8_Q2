@@ -6,6 +6,7 @@ _paginate: "Page %d"
 style: |
   section {
     background-color: #ffffff;
+    backgroundImage: url('https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg');
   }
   .accent {
     color: var(--accent-color);
@@ -29,7 +30,6 @@ Your Technical Writer: **24ds3000072@ds.study.iitm.ac.in**
 
 <!-- Slide with background image -->
 ---
-backgroundImage: url('https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg')
 backgroundSize: cover
 color: #fff
 ---
@@ -69,5 +69,6 @@ Using custom class:
 
 # Thank You  
 For queries: **24ds3000072@ds.study.iitm.ac.in**
+
 
 
