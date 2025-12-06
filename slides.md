@@ -15,10 +15,30 @@ style: |
 class: lead
 ---
 
+<head>
+<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
+</head>
+<section>
+    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
+    <p>24ds3000072@ds.study.iitm.ac.in</p>
+    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
+    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
+</section>
+
 # Product Documentation Overview  
 Your Technical Writer: **<a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>**
 
 ---
+
+<head>
+<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
+</head>
+<section>
+    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
+    <p>24ds3000072@ds.study.iitm.ac.in</p>
+    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
+    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
+</section>
 
 # Features Overview  
 - High-performance engine  
@@ -34,6 +54,16 @@ backgroundSize: cover
 color: #fff
 ---
 
+<head>
+<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
+</head>
+<section>
+    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
+    <p>24ds3000072@ds.study.iitm.ac.in</p>
+    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
+    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
+</section>
+
 # Architecture Diagram  
 System overview with layered components.
 
@@ -41,35 +71,15 @@ System overview with layered components.
 
 ---
 
+<head>
+<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
+</head>
+<section>
+    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
+    <p>24ds3000072@ds.study.iitm.ac.in</p>
+    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
+    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
+</section>
+
 # Code Example (JavaScript)
-
-```
-function sum(arr) {
-  return arr.reduce((a, b) => a + b, 0);
-}
-console.log(sum([1, 2, 3])); // 6
-```
-
----
-
-# Mathematical Expression  
-Algorithmic time complexity for binary search:
-
-\[
-T(n) = T\left(\frac{n}{2}\right) + O(1) = O(\log n)
-\]
-
----
-
-# Custom Styled Notes  
-Using custom class:  
-<div class="accent">Important: Always validate user input.</div>
-
----
-
-# Thank You  
-For queries: **24ds3000072@ds.study.iitm.ac.in**
-
-
-
 
