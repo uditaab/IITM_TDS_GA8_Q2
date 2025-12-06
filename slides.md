@@ -55,34 +55,12 @@ backgroundRepeat: no-repeat
 backgroundPosition: center
 color: #fff
 ---
-
-<head>
-<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
-</head>
-<section>
-    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
-    <p>24ds3000072@ds.study.iitm.ac.in</p>
-    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
-    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
-</section>
-
 # Architecture Diagram  
 System overview with layered components.
 
 <footer>Background image slide</footer>
 
 ---
-
-<head>
-<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
-</head>
-<section>
-    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
-    <p>24ds3000072@ds.study.iitm.ac.in</p>
-    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
-    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
-</section>
-
 # Code Example (JavaScript)
 ```
 function sum(arr) {
@@ -91,17 +69,6 @@ function sum(arr) {
 console.log(sum([1, 2, 3])); // 6
 ```
 ---
-
-<head>
-<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
-</head>
-<section>
-    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
-    <p>24ds3000072@ds.study.iitm.ac.in</p>
-    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
-    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
-</section>
-
 # Mathematical Expression  
 Algorithmic time complexity for binary search:
 
@@ -110,32 +77,11 @@ T(n) = T\left(\frac{n}{2}\right) + O(1) = O(\log n)
 \]
 
 ---
-
-<head>
-<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
-</head>
-<section>
-    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
-    <p>24ds3000072@ds.study.iitm.ac.in</p>
-    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
-    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
-</section>
-
 # Custom Styled Notes  
 Using custom class:  
 <div class="accent">Important: Always validate user input.</div>
 
 ---
-
-<head>
-<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
-</head>
-<section>
-    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
-    <p>24ds3000072@ds.study.iitm.ac.in</p>
-    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
-    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
-</section>
-
 # Thank You  
 For queries: **24ds3000072@ds.study.iitm.ac.in**
+
