@@ -6,7 +6,6 @@ _paginate: "Page %d"
 style: |
   section {
     background-color: #ffffff;
-    backgroundImage: url('https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg');
   }
   .accent {
     color: var(--accent-color);
@@ -48,9 +47,12 @@ Your Technical Writer: **<a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds30
 
 ---
 
-<!-- Slide with background image -->
+<!-- Full-slide background image -->
 ---
+backgroundImage: url('https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg')
 backgroundSize: cover
+backgroundRepeat: no-repeat
+backgroundPosition: center
 color: #fff
 ---
 
@@ -82,4 +84,58 @@ System overview with layered components.
 </section>
 
 # Code Example (JavaScript)
+```
+function sum(arr) {
+  return arr.reduce((a, b) => a + b, 0);
+}
+console.log(sum([1, 2, 3])); // 6
+```
+---
 
+<head>
+<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
+</head>
+<section>
+    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
+    <p>24ds3000072@ds.study.iitm.ac.in</p>
+    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
+    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
+</section>
+
+# Mathematical Expression  
+Algorithmic time complexity for binary search:
+
+\[
+T(n) = T\left(\frac{n}{2}\right) + O(1) = O(\log n)
+\]
+
+---
+
+<head>
+<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
+</head>
+<section>
+    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
+    <p>24ds3000072@ds.study.iitm.ac.in</p>
+    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
+    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
+</section>
+
+# Custom Styled Notes  
+Using custom class:  
+<div class="accent">Important: Always validate user input.</div>
+
+---
+
+<head>
+<!-- Email: 24ds3000072@ds.study.iitm.ac.in -->
+</head>
+<section>
+    <h1>24ds3000072@ds.study.iitm.ac.in</h1>
+    <p>24ds3000072@ds.study.iitm.ac.in</p>
+    <h2>24ds3000072@ds.study.iitm.ac.in</h2>
+    <a href="mailto:24ds3000072@ds.study.iitm.ac.in">24ds3000072@ds.study.iitm.ac.in</a>
+</section>
+
+# Thank You  
+For queries: **24ds3000072@ds.study.iitm.ac.in**
